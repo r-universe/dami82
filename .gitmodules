@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "easyPubMed"]
+	path = easyPubMed
+	url = https://github.com/dami82/easypubmed
+	shallow = true
+	registered = true
+[submodule "mutSignatures"]
+	path = mutSignatures
+	url = https://github.com/dami82/mutsignatures
+	shallow = true
+	registered = true

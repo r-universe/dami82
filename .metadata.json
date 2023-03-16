@@ -1,0 +1,10 @@
+[
+  {
+    "package": "easyPubMed",
+    "oncran": true
+  },
+  {
+    "package": "mutSignatures",
+    "oncran": true
+  }
+]
