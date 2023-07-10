@@ -13,4 +13,4 @@
 	url = https://github.com/dami82/mutsignatures
 [submodule "TCGAretriever"]
 	path = TCGAretriever
-	url = https://github.com/cran/TCGAretriever
+	url = https://github.com/dami82/tcgaretriever
