@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "TCGAretriever"]
+	path = TCGAretriever
+	url = https://github.com/dami82/tcgaretriever
 [submodule "colorhcplot"]
 	path = colorhcplot
 	url = https://github.com/cran/colorhcplot
@@ -11,6 +14,3 @@
 [submodule "mutSignatures"]
 	path = mutSignatures
 	url = https://github.com/dami82/mutsignatures
-[submodule "TCGAretriever"]
-	path = TCGAretriever
-	url = https://github.com/dami82/tcgaretriever
