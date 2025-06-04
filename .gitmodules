@@ -7,7 +7,7 @@
 	url = https://github.com/dami82/tcgaretriever
 [submodule "colorhcplot"]
 	path = colorhcplot
-	url = https://github.com/cran/colorhcplot
+	url = https://github.com/dami82/colorhcplot
 [submodule "easyPubMed"]
 	path = easyPubMed
 	url = https://github.com/dami82/easypubmed
